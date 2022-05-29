@@ -1,0 +1,140 @@
+
+
+====== Vettore disordinato ======
+
+98
+81
+22
+29
+36
+52
+27
+97
+19
+86
+
+
+====== Vettore disordinato ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con selection sort ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con selection sort ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con insertion sort ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con insertion sort ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con bubblesort ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con bubblesort ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con mergesort ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con mergesort ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con quicksort con scelta del pivot banale ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con quicksort con scelta del pivot banale ======
+
+
+Durata dell'esecuzione in microsecondi: 0
+
+
+====== Vettore ordinato con quicksort randomizzato ======
+
+19
+22
+27
+29
+36
+52
+81
+86
+97
+98
+
+
+====== Vettore ordinato con quicksort randomizzato ======
+
+
+Durata dell'esecuzione in microsecondi: 0
